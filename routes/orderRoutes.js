@@ -1,0 +1,3 @@
+router.post('/', auth, async (req, res) => {
+    // ...
+}); 
